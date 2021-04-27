@@ -21,5 +21,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-#### 2. change one code line in App.js like this `import Setup from './tutorial/01_useState/02_useState_basic'`
+#### 2. change one code line in App.js like this 
+* `import Setup from './tutorial/01_useState/02_useState_basic'`
 
