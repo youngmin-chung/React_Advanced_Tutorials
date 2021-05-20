@@ -1,7 +1,7 @@
 import React from 'react'
 
 // set up the path here to run each tutorial example
-import Setup from './tutorial/02_useEffect/03_useEffect_fetch_data'
+import Setup from './tutorial/03_conditional_rendering/03_show_hide'
 
 function App() {
   return (
