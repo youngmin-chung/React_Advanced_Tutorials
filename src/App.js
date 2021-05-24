@@ -1,7 +1,7 @@
 import React from 'react'
 
 // set up the path here to run each tutorial example
-import Setup from './tutorial/04_forms/02_multiple_inputs'
+import Setup from './tutorial/05_UseRef/01_useRef_basic'
 
 function App() {
   return (
