@@ -1,7 +1,7 @@
 import React from 'react'
 
 // set up the path here to run each tutorial example
-import Setup from './tutorial/06_useReducer/index'
+import Setup from './tutorial/07_prop_drilling/01_prop_drilling'
 
 function App() {
   return (
