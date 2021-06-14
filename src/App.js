@@ -1,7 +1,7 @@
 import React from 'react'
 
 // set up the path here to run each tutorial example
-import Setup from './tutorial/08_useContext/01_context_api'
+import Setup from './tutorial/09_custom_hook/01_fetch_example'
 
 function App() {
   return (
