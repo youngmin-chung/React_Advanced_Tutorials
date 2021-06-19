@@ -10,12 +10,9 @@ export const useFetch = (url) => {
     setProducts(products)
     setLoading(false)
   }, [url])
+
   useEffect(() => {
     getProducts()
   }, [url, getProducts])
-
-  return {
-    loading,
-    products,
-  }
+  return { loading, products }
 }
